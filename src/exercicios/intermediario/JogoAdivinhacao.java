@@ -1,10 +1,10 @@
-package exercícios.intermediario;
+package exercicios.intermediario;
 
 import java.util.Random;
 import java.util.Scanner;
 
 public class JogoAdivinhacao {
-    
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
@@ -21,7 +21,7 @@ public class JogoAdivinhacao {
             int tentativa = scanner.nextInt();
             tentativas++;
 
-            if(tentativa < numeroAleatorio) {
+            if (tentativa < numeroAleatorio) {
                 System.out.println("Errou! Tente um número maior...");
             } else if (tentativa > numeroAleatorio) {
                 System.out.println("Errou! Tente um número menor...");
@@ -30,7 +30,7 @@ public class JogoAdivinhacao {
                 acertou = true;
             }
         }
-    scanner.close();
+        scanner.close();
     }
-    
+
 }

@@ -1,4 +1,4 @@
-package exercícios.intermediario;
+package exercicios.intermediario;
 
 import java.util.Scanner;
 
