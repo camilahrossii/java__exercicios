@@ -11,16 +11,18 @@ public class Fatorial {
 
         long fatorial = calcularFatorial(numero);
         System.out.println("O fatorial do número " + numero + " é " + fatorial);
+
+        scanner.close();
     }
 
     public static long calcularFatorial(int numero) {
-        if(numero < 0) {
+        if (numero < 0) {
             return -1;
-        } 
+        }
 
         long fatorial = 1;
 
-        for(int i = 1; i <= numero; i++) {
+        for (int i = 1; i <= numero; i++) {
             fatorial *= i;
         }
 

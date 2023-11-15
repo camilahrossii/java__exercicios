@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Palindromo",
+            "request": "launch",
+            "mainClass": "exercícios.intermediario.Palindromo",
+            "projectName": "java__exercicios_3aed6dd4"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "exercícios.intermediario.Calculadora",
+            "projectName": "java__exercicios_3aed6dd4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraSoma",
+            "request": "launch",
+            "mainClass": "exercícios.basico.CalculadoraSoma",
+            "projectName": "java__exercicios_3aed6dd4"
+        },
+        {
+            "type": "java",
+            "name": "ConversorDeGraus",
+            "request": "launch",
+            "mainClass": "exercícios.basico.ConversorDeGraus",
+            "projectName": "java__exercicios_3aed6dd4"
+        },
+        {
+            "type": "java",
+            "name": "Media",
+            "request": "launch",
+            "mainClass": "exercícios.basico.Media",
+            "projectName": "java__exercicios_3aed6dd4"
+        },
+        {
+            "type": "java",
+            "name": "ParOuImpar",
+            "request": "launch",
+            "mainClass": "exercícios.basico.ParOuImpar",
+            "projectName": "java__exercicios_3aed6dd4"
+        },
+        {
+            "type": "java",
+            "name": "Fatorial",
+            "request": "launch",
+            "mainClass": "exercícios.intermediario.Fatorial",
+            "projectName": "java__exercicios_3aed6dd4"
+        },
+        {
+            "type": "java",
+            "name": "JogoAdivinhacao",
+            "request": "launch",
+            "mainClass": "exercícios.intermediario.JogoAdivinhacao",
+            "projectName": "java__exercicios_3aed6dd4"
+        },
+        {
+            "type": "java",
+            "name": "MaiorMenor",
+            "request": "launch",
+            "mainClass": "exercícios.intermediario.MaiorMenor",
+            "projectName": "java__exercicios_3aed6dd4"
+        }
+    ]
+}
