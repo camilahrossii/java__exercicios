@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aula03",
+            "request": "launch",
+            "mainClass": "exercicios.estruturadedados.vetor.teste.Aula03",
+            "projectName": "java__exercicios_3aed6dd4"
+        },
+        {
+            "type": "java",
+            "name": "Aula02",
+            "request": "launch",
+            "mainClass": "exercicios.estruturadedados.vetor.Aula02",
+            "projectName": "java__exercicios_3aed6dd4"
+        },
+        {
+            "type": "java",
+            "name": "ListaEncadeadaTeste",
+            "request": "launch",
+            "mainClass": "exercicios.lista.teste.ListaEncadeadaTeste",
+            "projectName": "java__exercicios_3aed6dd4"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "exercicios.avancado.todo.App",

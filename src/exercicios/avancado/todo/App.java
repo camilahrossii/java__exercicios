@@ -1,7 +1,5 @@
 package exercicios.avancado.todo;
 
-import exercicios.avancado.todo.Tasks;
-
 public class App {
     public static void main(String[] args) {
         Tasks tasks = new Tasks();
